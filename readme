@@ -1,0 +1,9 @@
+With using this you can easily find the minimum cost of spanning tree 
+The code in written in cplus 
+Added the  time  library for checking the time that how much time it will take to run the functions that is the prims 
+So You have to enter the amount of nodes and edges 
+Then put the node number from where to the destination it is written as x and y as destination point and simply enter the weight
+The loop will run until the number of nodes and edges that you have entereed in the node and edges and taken before as input from yours
+If you don't understand the code just simply ask anything 
+Have a nice day keep learning 
+ 
